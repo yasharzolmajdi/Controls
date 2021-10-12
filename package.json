@@ -1,5 +1,5 @@
 {
-  "name": "q-ctrl_controls_react_example",
+  "name": "controls",
   "version": "1.0.0",
   "private": true,
   "license": "SEE LICENSE IN LICENSE",
@@ -43,5 +43,7 @@
     "hooks": {
       "pre-commit": "pretty-quick --staged"
     }
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
